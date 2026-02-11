@@ -2,33 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/autotests-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/autotests-api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/activate.csh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/activate.fish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/activate.nu" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/activate.nu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/activate_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/activate_this.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/pip-3.13" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/pip-3.13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/pip3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/pip3.13" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/pip3.13" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/python" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/bin/python" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/python3.13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/t32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/t64-arm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/t64-arm.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/t64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/w32.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/w64-arm.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/w64-arm.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/w64.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.13/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcp_users_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tcp_users_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,7 +35,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/spiritqa/Документы/save_doc_Monjara/spiritqa/PycharmProjects/autotests-api"
   }
 }]]></component>
   <component name="TaskManager">
