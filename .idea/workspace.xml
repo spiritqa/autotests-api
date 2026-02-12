@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tcp_users_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tcp_users_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpx_authentication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpx_example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="39X1m8rPzm9WWb42ii7T0EU4yM4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,13 +32,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.httpx_authentication.executor": "Run",
+    "Python.httpx_example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/spiritqa/Документы/save_doc_Monjara/spiritqa/PycharmProjects/autotests-api"
+    "last_opened_file_path": "/home/spiritqa/Документы/save_doc_Monjara/spiritqa/PycharmProjects/qa-automation-engineer-api-course"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="" />
