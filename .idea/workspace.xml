@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/httpx_authentication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpx_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpx_get_user_me.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +33,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.httpx_authentication.executor": "Run",
     "Python.httpx_example.executor": "Run",
+    "Python.httpx_get_user_me.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
