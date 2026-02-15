@@ -29,7 +29,7 @@ class AuthenticationClient(APIClient):
         return self.post("/api/v1/authentication/login", json=request)
 
 
-    def refresh_api(self, request: RefreshRequestDict):
+    def refresh_api(self, request: RefreshRequestDict) -> Response:
         """
         Метод обновляет токен авторизации.
 
