@@ -21,7 +21,6 @@ class CreateExercisesRequestDict(TypedDict):
     description: str
     estimatedTime: str
 
-
 class UpdateExercisesRequestDict(TypedDict):
     """
     Описание структуры запроса на обновление данных задания.
@@ -35,7 +34,9 @@ class UpdateExercisesRequestDict(TypedDict):
 
 
 class ExercisesClient(APIClient):
-
+    """
+    Клиент для работы с /api/v1/exercises
+    """
     def get_exercises_api(self, query: GetExercisesQueryDict) -> Response:
         """
         Метод получения списка заданий для определенного курса.
