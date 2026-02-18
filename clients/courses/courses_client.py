@@ -1,5 +1,3 @@
-from sqlite3.dbapi2 import paramstyle
-
 from httpx import Response
 
 from clients.api_client import APIClient
