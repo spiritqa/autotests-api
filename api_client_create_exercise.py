@@ -49,9 +49,9 @@ exercises_client = get_exercises_client(authentication_user)
 create_exercises_request = CreateExercisesRequestDict(
     title="Python start",
     courseId=create_courses_response['course']['id'],
-    maxScore=300,
-    minScore=299,
-    orderIndex=2,
+    maxScore=3,
+    minScore=2,
+    orderIndex=1,
     description="3,2,1...GO",
     estimatedTime="1s"
 )
