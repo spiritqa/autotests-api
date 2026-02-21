@@ -1,28 +1,30 @@
 from clients.courses.courses_client import get_courses_client, CreateCourseRequestDict
 from clients.exercises.exercises_client import get_exercises_client, CreateExercisesRequestDict
-from clients.private_http_builder import AuthenticationUserDict
-from clients.users.public_users_client import get_public_users_client, CreateUserRequestDict
-from clients.files.files_client import get_files_client, CreateFileRequestDict
+from clients.private_http_builder import AuthenticationUserSchema
+from clients.users.public_users_client import get_public_users_client
+from clients.users.users_schema import CreateUserRequestSchema
+from clients.files.files_client import get_files_client
+from clients.files.files_schema import CreateFileRequestSchema
 from tools.fakes import get_randome_email
 
 public_users_client = get_public_users_client()
 
-create_user_request = CreateUserRequestDict(
+create_user_request = CreateUserRequestSchema(
     email=get_randome_email(),
     password="stringPass",
-    lastName="stringLast",
-    firstName="stringFirst",
-    middleName="stringMiddle"
+    last_name="stringLast",
+    first_name="stringFirst",
+    middle_name="stringMiddle"
 )
 create_user_response = public_users_client.create_user(create_user_request)
 
-authentication_user = AuthenticationUserDict(
-    email=create_user_request['email'],
-    password=create_user_request['password']
+authentication_user = AuthenticationUserSchema(
+    email=create_user_request.email,
+    password=create_user_request.password
 )
 
 files_client = get_files_client(authentication_user)
-create_file_request = CreateFileRequestDict(
+create_file_request = CreateFileRequestSchema(
     filename='image.png',
     directory='courses',
     upload_file='./testdata/files/image.png'
@@ -38,8 +40,8 @@ create_courses_request = CreateCourseRequestDict(
     minScore=30,
     description="Python course",
     estimatedTime="23 year",
-    previewFileId=create_file_response['file']['id'],
-    createdByUserId=create_user_response['user']['id']
+    previewFileId=create_file_response.file.id,
+    createdByUserId=create_user_response.user.id
 
 )
 create_courses_response = course_client.create_course(create_courses_request)
