@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pydantic_json_schema_get_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/faker_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/fakers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_client_create_course.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_client_create_course.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_client_create_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_client_create_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_client_get_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_client_get_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/authentication/authentication_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/authentication/authentication_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/courses/courses_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/courses/courses_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/files/files_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/files/files_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clients/users/users_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/users/users_schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpx_create_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_create_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpx_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_create_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpx_delete_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_delete_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpx_get_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_get_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/httpx_update_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_update_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pydantic_json_schema_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/pydantic_json_schema_create_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pydantic_json_schema_get_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/pydantic_json_schema_get_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/fakes.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +47,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.api_client_create_course.executor": "Run",
+    "Python.api_client_get_user.executor": "Run",
+    "Python.faker_example.executor": "Run",
     "Python.httpx_authentication.executor": "Run",
     "Python.httpx_create_user.executor": "Run",
     "Python.httpx_example.executor": "Run",
