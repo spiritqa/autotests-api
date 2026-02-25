@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/faker_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/fakers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_client_create_course.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_client_create_course.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_client_create_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_client_create_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_client_get_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_client_get_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/authentication/authentication_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/authentication/authentication_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/courses/courses_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/courses/courses_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/files/files_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/files/files_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/users/users_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/users/users_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpx_create_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_create_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpx_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_create_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpx_delete_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_delete_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpx_get_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_get_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/httpx_update_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/httpx_update_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pydantic_json_schema_create_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/pydantic_json_schema_create_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pydantic_json_schema_get_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/pydantic_json_schema_get_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/fakes.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +27,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.api_client_create_course.executor": "Run",
-    "Python.api_client_get_user.executor": "Run",
-    "Python.faker_example.executor": "Run",
-    "Python.httpx_authentication.executor": "Run",
-    "Python.httpx_create_user.executor": "Run",
-    "Python.httpx_example.executor": "Run",
-    "Python.httpx_get_user_me.executor": "Run",
-    "Python.json_schema_example.executor": "Run",
-    "Python.pydantic_basics.executor": "Run",
-    "Python.pydantic_example.executor": "Run",
-    "Python.pydantic_json_schema_create_user.executor": "Run",
-    "Python.pydantic_json_schema_get_user.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/spiritqa/Документы/save_doc_Monjara/spiritqa/PycharmProjects/qa-automation-engineer-api-course"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.api_client_create_course.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_client_get_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.faker_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.httpx_authentication.executor&quot;: &quot;Run&quot;,
+    &quot;Python.httpx_create_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.httpx_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.httpx_get_user_me.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_schema_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pydantic_basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pydantic_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pydantic_json_schema_create_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pydantic_json_schema_get_user.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/spiritqa/Документы/save_doc_Monjara/spiritqa/PycharmProjects/qa-automation-engineer-api-course&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
