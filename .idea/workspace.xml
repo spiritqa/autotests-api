@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/test_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/assertions/base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
