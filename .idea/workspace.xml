@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f3f8fe0-26e2-453c-a44b-888c6fab6c65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/clients/errors_schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/files/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/files/test_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/assertions/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/assertions/files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients/files/files_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/clients/files/files_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/assertions/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/assertions/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/files/test_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/files/test_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/assertions/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/assertions/files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
