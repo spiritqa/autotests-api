@@ -27,8 +27,8 @@ def assert_equal(actual: Any, expected: Any, name: Any):
         :return: AssertionError: Если фактическое значение не равно ожидаемому.
         """
     assert actual == expected, (
-        f'Incorrect value: {name}'
-        f'Expected value: {expected}'
+        f'Incorrect value: {name}\n'
+        f'Expected value: {expected}\n'
         f'Actual value: {actual}'
     )
 
